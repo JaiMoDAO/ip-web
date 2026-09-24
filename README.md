@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪴 Personal IP Web Blueprint
+# 🪴 Personal IP Website
 
 </div>
 
@@ -15,7 +15,7 @@
 * Storing and indexing technical documents, data analysis, tutorials, or open-source research.
 * Unifying official social and contact channels.
 
-* **Live Demo**: [https://jaimoeth.github.io](https://jaimoeth.github.io)
+* **Demo**: [index.html](./index.html)
 
 ---
 
@@ -27,10 +27,9 @@
   * **Center (Latest Articles)**: Chronological feeds for recent articles and project updates.
   * **Right (Connection)**: Official social media links and important notices.
 * **Ready to Use**: Compatible with deployment on any static web hosting service.
-* **Detailed steps**: [deployment.ipynb](./deployment.ipynb)
+* **Detailed steps**: [config.js](./config.js)
 
 ---
 ## 📄 License
 
 This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and build your own digital business card!
-
