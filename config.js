@@ -15,7 +15,7 @@ window.SITE_CONFIG = {
     avatar: "avatar.png",
     banner: "background.jpg",
     bio: "Building from first principles. Exploring quantitative systems.",
-    version: "Version 1.0.0"
+    version: "Version 1.1.0"
   },
 
   titles: {
