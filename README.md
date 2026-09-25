@@ -8,7 +8,7 @@
 一个轻量、优雅且模块化的个人 IP 主页与防伪验证模板。
 
 <p>
-  <a href="#english">English</a> | <a href="#简体中文">简体中文</a>
+  <a href="#english">English</a> | <a href="#简体中文">简体中文</a> | <a href="#preview">Preview</a>
 </p>
 
 </div>
@@ -58,6 +58,13 @@ Once deployment is complete, your IP Website URL will be:
 
 **`https://yourname.github.io`**
 
+#### 4. Important Notes
+
+* "preview.png" is the preview image;
+* "LICENSE" contains the open-source license details;
+* "README.md" contains the project documentation;
+* All three can be deleted without affecting the project's deployment or actual usage.
+
 ---
 
 ## 简体中文
@@ -100,6 +107,19 @@ Once deployment is complete, your IP Website URL will be:
 部署完成后，你的 IP Website 网址即为：
 
 **`https://yourname.github.io`**
+
+#### 4. 注意事项
+
+* "preview.png"是预览效果图；
+* "LICENSE"是开源许可说明；
+* "README.md"是项目说明内容；
+* 此三者均可删除，不影响项目部署实际使用效果。
+
+---
+
+## Preview
+
+![Preview](preview.png)
 
 ---
 
