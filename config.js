@@ -40,14 +40,12 @@ window.SITE_CONFIG = {
       items: [
         { name: "LaTeX Notes", url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/0LaTeXNotes.ipynb" },
         { name: "Python - English", url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/1PythonEnglish.ipynb" },
-        { name: "Python - Chinese", url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/1PythonChinese.ipynb" },
-        { name: "Numpy - Chinese", url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/2NumpyChinese.ipynb" }
+        { name: "Python - Chinese", url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/1PythonChinese.ipynb" }
       ]
     },
     { category: "🔬 Open-source Research",
       items: [
-        { name: "IP Website", url: "https://github.com/JaiMoDAO/ip-web" },
-        { name: "Self Bank", url: "https://github.com/JaiMoDAO/self-bank" }
+        { name: "IP Website", url: "https://github.com/JaiMoDAO/ip-web" }
       ]
     }
   ],
@@ -60,22 +58,10 @@ window.SITE_CONFIG = {
     // Do not forget the commas at the end of intermediate lines;
 
     { tag: "Open-source Research",
-      title: "Self Bank",
-      url: "https://github.com/JaiMoDAO/self-bank",
-      date: "2026/09/25",
-      desc: "A Web3 sovereign banking protocol powered by ERC-4337, featuring gold-backed token accounting, on-chain invoicing, and zero-friction payroll."
-    },
-    { tag: "Open-source Research",
       title: "IP Website",
       url: "https://github.com/JaiMoDAO/ip-web",
       date: "2026/09/22",
       desc: "An open-source template for Web3 static blogs and personal knowledge bases, showcasing decentralized web practices that combine IPFS hosting with ENS domain binding."
-    },
-    { tag: "Python Tutorials",
-      title: "Numpy - Chinese",
-      url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/2NumpyChinese.ipynb",
-      date: "2026/09/21",
-      desc: "Interactive guide covering core Python syntax, data structures, and functions for beginners."
     },
     { tag: "Data Analysis",
       title: "Stock Price Simulation",
@@ -88,6 +74,18 @@ window.SITE_CONFIG = {
       url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/0LaTeXNotes.ipynb",
       date: "2026/09/18",
       desc: "A quick-reference guide to common LaTeX syntax and mathematical formula code, designed as a handy index for efficient typesetting and formula entry."
+    },
+    { tag: "Python Tutorials",
+      title: "Python - English",
+      url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/1PythonEnglish.ipynb",
+      date: "2026/09/15",
+      desc: "A beginner-friendly guide to Python basics and code practices."
+    },
+    { tag: "Python Tutorials",
+      title: "Python - Chinese",
+      url: "https://github.com/jaimoeth/jaimoeth/tree/main/PythonTutorials/1PythonChinese.ipynb",
+      date: "2026/09/10",
+      desc: "一份专为初学者设计的 Python 基础教学与代码实践指南。"
     }
   ],
   
